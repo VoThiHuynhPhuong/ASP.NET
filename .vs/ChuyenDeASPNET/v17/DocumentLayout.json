@@ -1,89 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\New folder (3)\\ChuyenDeASPNET\\",
+  "WorkspaceRootPath": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|c:\\users\\phuong\\onedrive\\ta\u0300i li\u00EA\u0323u\\m\u00E1y t\u00EDnh\\asp.net\\chuyendeaspnet\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|e:\\new folder (3)\\chuyendeaspnet\\chuyendeaspnet\\views\\profile\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\profile\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\Address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\profile\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\profile\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\profile\\setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\profile\\setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\profile\\seller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\profile\\seller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\seller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\shopping\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\shopping\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\shopping\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\New folder (3)\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,25 +93,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 474,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Address.cshtml",
               "DocumentMoniker": "C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\Address.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Zalo Received Files\\Address.cshtml",
               "ToolTip": "C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\Address.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Zalo Received Files\\Address.cshtml",
               "ViewState": "AgIAAEcAAAAAAAAAAADwv2EAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-04T08:28:18.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Wishlist.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
               "ViewState": "AgIAACwAAAAAAAAAAAAswDoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -119,37 +121,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Orders.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
-              "ViewState": "AgIAANYAAAAAAAAAAAAUwOsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAUwOsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-04T08:27:11.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Address.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T08:27:11.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T08:27:11.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Setting.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAADoAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -157,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -169,23 +170,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ProfileController.cs",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAiwB8AAAAkAAAA",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:27:11.868Z"
+              "WhenOpened": "2024-12-04T08:27:11.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Main.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAD4vzkAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -193,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Seller.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAqwDoAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -205,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABwAAAAAAAAAAAAAACoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -217,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\User\\Register.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\User\\Register.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\User\\Register.cshtml",
               "ViewState": "AQIAAFoAAAAAAAAAAAAAAGoAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -229,23 +231,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAawCwAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
-              "WhenOpened": "2024-12-04T08:27:11.871Z"
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:27:11.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Cart.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shopping\\Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Shopping\\Cart.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Shopping\\Cart.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shopping\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Shopping\\Cart.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Shopping\\Cart.cshtml",
               "ViewState": "AQIAAKMAAAAAAAAAAAAqwLsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -253,35 +256,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "ProductByCategory.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
-              "ViewState": "AQIAAOoBAAAAAAAAAAAjwPYBAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
-              "WhenOpened": "2024-12-04T08:27:11.873Z"
+              "ViewState": "AgIAAOoBAAAAAAAAAAAjwPYBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:27:11.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:27:11.873Z"
+              "WhenOpened": "2024-12-04T08:27:11.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\User\\Login.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\User\\Login.cshtml",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAADsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -289,23 +294,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "ShoppingController.cs",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ShoppingController.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\ShoppingController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ShoppingController.cs",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ShoppingController.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\ShoppingController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\ShoppingController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:27:11.875Z"
+              "WhenOpened": "2024-12-04T08:27:11.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "AllCategory.cshtml",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAACIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
@@ -313,23 +319,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\UserController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:27:11.876Z"
+              "WhenOpened": "2024-12-04T08:27:11.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,15 +344,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\New folder (3)\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\M\u00E1y t\u00EDnh\\ASP.NET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T08:27:11.878Z"
+              "WhenOpened": "2024-12-04T08:27:11.878Z",
+              "EditorCaption": ""
             }
           ]
         }

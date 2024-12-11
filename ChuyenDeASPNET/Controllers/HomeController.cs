@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ChuyenDeASPNET.Context;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +9,11 @@ namespace ChuyenDeASPNET.Controllers
 {
     public class HomeController : Controller
     {
+        HuynhPhuongASPNETEntities objHuynhPhuongASPNETEntities = new HuynhPhuongASPNETEntities();
         public ActionResult Index()
         {
-            return View();
+            var lstProduct = objHuynhPhuongASPNETEntities.Product.ToList();
+            return View(lstProduct);
         }
     }
 }
