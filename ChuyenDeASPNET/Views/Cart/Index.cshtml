@@ -1,21 +1,20 @@
 ﻿@model IEnumerable<ChuyenDeASPNET.Models.CartModel>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Giỏ hàng";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
 
 <script type="text/javascript">
     $(function () {
         $("#removecart").click(function () {
             var model = {};
-            //lấy id sản phẩm
+            // lấy id sản phẩm
             model.Id = $("#productid").val();
             $.ajax({
                 type: "POST",
                 url: '@Url.Action("Remove", "Cart")',
-                data:  JSON.stringify(model) ,
+                data:  JSON.stringify(model),
                 dataType: "json",
                 contentType: "application/json; charset=utf-8",
                 success: function () {
@@ -23,7 +22,7 @@
                     $("#product-" + model.Id).remove();
                 },
                 error: function () {
-                    alert("Lỗi trong khi thêm vào giỏ hàng!");
+                    alert("Lỗi khi xóa sản phẩm khỏi giỏ hàng!");
                 }
             });
             return false;
@@ -40,9 +39,9 @@
                     <table class="table table-borderless table-shopping-cart">
                         <thead class="text-muted">
                             <tr class="small text-uppercase">
-                                <th scope="col">Product</th>
-                                <th scope="col" width="120">Quantity</th>
-                                <th scope="col" width="120">Price</th>
+                                <th scope="col">Sản phẩm</th>
+                                <th scope="col" width="120">Số lượng</th>
+                                <th scope="col" width="120">Giá</th>
                                 <th scope="col" class="text-right" width="200"> </th>
                             </tr>
                         </thead>
@@ -65,14 +64,15 @@
                                         </td>
                                         <td>
                                             <div class="price-wrap">
-                                                <var class="price">@item.Product.Price</var>
+                                                <!-- Chuyển đổi giá sang định dạng tiền Việt -->
+                                                <var class="price">@string.Format("{0:N0} VND", item.Product.Price)</var>
                                             </div> <!-- price-wrap .// -->
                                         </td>
                                         <td class="text-right">
                                             <input type="hidden" value="@item.Product.Id" id="productid" />
-                                            <a data-original-title="Save to Wishlist" title="" href="" class="btn btn-light" data-toggle="tooltip"> <i class="fa fa-heart"></i></a>
+                                            <a data-original-title="Lưu vào danh sách yêu thích" title="" href="" class="btn btn-light" data-toggle="tooltip"> <i class="fa fa-heart"></i></a>
 
-                                            <a href="" class="btn btn-light" id="removecart"> Remove</a>
+                                            <a href="" class="btn btn-light" id="removecart"> Xóa</a>
                                         </td>
                                     </tr>
                                 }
@@ -81,7 +81,6 @@
                             {
                                 <p>Không có sản phẩm trong giỏ hàng</p>
                             }
-
 
                         </tbody>
                     </table>
@@ -93,7 +92,7 @@
                 </div> <!-- card.// -->
 
                 <div class="alert alert-success mt-3">
-                    <p class="icontext"><i class="icon text-success fa fa-truck"></i> Free Delivery within 1-2 weeks</p>
+                    <p class="icontext"><i class="icon text-success fa fa-truck"></i> Giao hàng miễn phí trong 1-2 tuần</p>
                 </div>
 
             </main> <!-- col.// -->
@@ -102,11 +101,11 @@
                     <div class="card-body">
                         <form>
                             <div class="form-group">
-                                <label>Have coupon?</label>
+                                <label>Đã có mã giảm giá?</label>
                                 <div class="input-group">
-                                    <input type="text" class="form-control" name="" placeholder="Coupon code">
+                                    <input type="text" class="form-control" name="" placeholder="Mã giảm giá">
                                     <span class="input-group-append">
-                                        <button class="btn btn-primary">Apply</button>
+                                        <button class="btn btn-primary">Áp dụng</button>
                                     </span>
                                 </div>
                             </div>
@@ -116,16 +115,14 @@
                 <div class="card">
                     <div class="card-body">
                         <dl class="dlist-align">
-                            <dt>Total price:</dt>
+                            <dt>Tổng giá trị:</dt>USD 658
+                        </dl>
+                        <dl class="dlist-align">
+                            <dt>Giảm giá:</dt>
                             <dd class="text-right">USD 568</dd>
                         </dl>
                         <dl class="dlist-align">
-                            <dt>Discount:</dt>
-                            <dd class="text-right">USD 658</dd>
-                        </dl>
-                        <dl class="dlist-align">
-                            <dt>Total:</dt>
-                            <dd class="text-right  h5"><strong>$1,650</strong></dd>
+                            <dt>Tổng cộng:</dt>USD 90
                         </dl>
                         <hr>
                         <p class="text-center mb-3">

@@ -243,3 +243,7 @@ E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\obj\Debug\WebASP.csproj.CoreCompileInp
 E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\obj\Debug\WebASP.csproj.Up2Date
 E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\obj\Debug\ChuyenDeASPNET.dll
 E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\obj\Debug\ChuyenDeASPNET.pdb
+E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\bin\PagedList.dll
+E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\bin\PagedList.Mvc.dll
+E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\bin\PagedList.xml
+E:\ThayPhat\ChuyenDeASPNET\ChuyenDeASPNET\bin\PagedList.Mvc.xml

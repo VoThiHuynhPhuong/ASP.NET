@@ -50,6 +50,7 @@ namespace ChuyenDeASPNET.Controllers
 
                 objWebsiteASP_NETEntities1.OrderDetail.AddRange(lstOrderDetail);
                 objWebsiteASP_NETEntities1.SaveChanges();
+                Session["cart"] = null;
             }
 
             return View();

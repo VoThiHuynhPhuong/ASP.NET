@@ -1,7 +1,7 @@
 ﻿@model ChuyenDeASPNET.Context.Product
 
 @{
-    ViewBag.Title = "Detail";
+    ViewBag.Title = "Chi tiết sản phẩm";
 }
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -14,15 +14,14 @@
             model.Id = @Model.CategoryId;
             // lấy số lượng đặt hàng
             model.Quantity = $("#ipQuantity").val();
-            debugger;
             $.ajax({
                 type: "POST",
                 url: '@Url.Action("AddToCart", "Cart")',
-                data:  JSON.stringify(model) ,
+                data:  JSON.stringify(model),
                 dataType: "json",
                 contentType: "application/json; charset=utf-8",
                 success: function () {
-                    alert("Thêm giỏ hàng thành công!")
+                    alert("Thêm vào giỏ hàng thành công!");
                     $('#CartCount').text(@Session["count"] + 1);
                 },
                 error: function () {
@@ -38,7 +37,7 @@
     <div class="container">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
-            <li class="breadcrumb-item"><a href="#">chi tiết sản phẩm</a></li>
+            <li class="breadcrumb-item"><a href="#">Chi tiết sản phẩm</a></li>
             <li class="breadcrumb-item active" aria-current="page">@Model.Name</li>
         </ol>
     </div>
@@ -79,28 +78,29 @@
                                 <i class="fa fa-star"></i>
                             </li>
                         </ul>
-                        <small class="label-rating text-muted">132 reviews</small>
-                        <small class="label-rating text-success"> <i class="fa fa-clipboard-check"></i> 154 orders </small>
+                        <small class="label-rating text-muted">132 đánh giá</small>
+                        <small class="label-rating text-success"> <i class="fa fa-clipboard-check"></i> 154 đơn hàng </small>
                     </div> <!-- rating-wrap.// -->
                     <div class="mb-3">
-                        <var class="price h4">@Model.Price</var>
-                        <span class="text-muted">USD 562.65 incl. VAT</span>
+                        <!-- Hiển thị giá bằng tiền Việt -->
+                        <var class="price h4">@string.Format("{0:N0} VND", Model.Price)</var>
+                        <span class="text-muted">Bao gồm VAT</span>
                     </div> <!-- price-detail-wrap .// -->
                     <p>
                         @Model.ShortDes
                     </p>
 
                     <dl class="row">
-                        <dt class="col-sm-3">Manufacturer</dt>
+                        <dt class="col-sm-3">Nhà sản xuất</dt>
                         <dd class="col-sm-9"><a href="#">Great textile Ltd.</a></dd>
-                        <dt class="col-sm-3">Article number</dt>
+                        <dt class="col-sm-3">Mã sản phẩm</dt>
                         <dd class="col-sm-9">596 065</dd>
-                        <dt class="col-sm-3">Guarantee</dt>
-                        <dd class="col-sm-9">2 year</dd>
-                        <dt class="col-sm-3">Delivery time</dt>
-                        <dd class="col-sm-9">3-4 days</dd>
-                        <dt class="col-sm-3">Availabilty</dt>
-                        <dd class="col-sm-9">in Stock</dd>
+                        <dt class="col-sm-3">Bảo hành</dt>
+                        <dd class="col-sm-9">2 năm</dd>
+                        <dt class="col-sm-3">Thời gian giao hàng</dt>
+                        <dd class="col-sm-9">3-4 ngày</dd>
+                        <dt class="col-sm-3">Tình trạng</dt>
+                        <dd class="col-sm-9">Có sẵn</dd>
                     </dl>
                     <div class="form-row  mt-4">
                         <div class="form-group col-md flex-grow-0">
@@ -111,7 +111,7 @@
                         <div class="form-group col-md">
                             <a href="#" id="addtocart" class="btn  btn-primary">
                                 <i class="fas fa-shopping-cart"></i>
-                                <span class="text" h>Thêm vào giỏ hàng</span>
+                                <span class="text">Thêm vào giỏ hàng</span>
                             </a>
                         </div> <!-- col.// -->
                     </div> <!-- row.// -->
@@ -128,14 +128,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h5 class="title-description">Description</h5>
+                <h5 class="title-description">Mô tả</h5>
                 @Model.FullDescription
             </div> <!-- col.// -->
 
             <aside class="col-md-4">
                 <div class="box">
 
-                    <h5 class="title-description">Files</h5>
+                    <h5 class="title-description">Tệp đính kèm</h5>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -144,30 +144,29 @@
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
-                    <h5 class="title-description">Videos</h5>
+                    <h5 class="title-description">Video</h5>
 
                     <article class="media mb-3">
                         <a href="#"><img class="img-sm mr-3" src="~/Content/images/posts/@Model.Avatar"></a>
                         <div class="media-body">
-                            <h6 class="mt-0"><a href="#">How to use this item</a></h6>
+                            <h6 class="mt-0"><a href="#">Cách sử dụng sản phẩm này</a></h6>
                             <p class="mb-2"> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin </p>
                         </div>
                     </article>
                     <article class="media mb-3">
                         <a href="#"><img class="img-sm mr-3" src="~/Content/images/posts/2.jpg"></a>
                         <div class="media-body">
-                            <h6 class="mt-0"><a href="#">New tips and tricks</a></h6>
+                            <h6 class="mt-0"><a href="#">Mẹo và thủ thuật mới</a></h6>
                             <p class="mb-2"> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin </p>
                         </div>
                     </article>
                     <article class="media mb-3">
                         <a href="#"><img class="img-sm mr-3" src="~/Content/images/posts/1.jpg"></a>
                         <div class="media-body">
-                            <h6 class="mt-0"><a href="#">New tips and tricks</a></h6>
+                            <h6 class="mt-0"><a href="#">Mẹo và thủ thuật mới</a></h6>
                             <p class="mb-2"> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin </p>
                         </div>
                     </article>
-
 
                 </div> <!-- box.// -->
             </aside> <!-- col.// -->
@@ -175,24 +174,3 @@
     </div> <!-- container .//  -->
 </section>
 <!-- ========================= SECTION CONTENT END// ========================= -->
-<!-- ========================= SECTION SUBSCRIBE  ========================= -->
-<section class="padding-y-lg bg-light border-top">
-    <div class="container">
-        <p class="pb-2 text-center">Delivering the latest product trends and industry news straight to your inbox</p>
-        <div class="row justify-content-md-center">
-            <div class="col-lg-4 col-sm-6">
-                <form class="form-row">
-                    <div class="col-8">
-                        <input class="form-control" placeholder="Your Email" type="email">
-                    </div> <!-- col.// -->
-                    <div class="col-4">
-                        <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Subscribe </button>
-                    </div> <!-- col.// -->
-                </form>
-                <small class="form-text">We’ll never share your email address with a third-party. </small>
-            </div> <!-- col-md-6.// -->
-        </div>
-
-    </div>
-</section>
-<!-- ========================= SECTION SUBSCRIBE END// ========================= -->
