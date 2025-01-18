@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "E:\\ThayPhat\\ChuyenDeASPNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\models\\productlisstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\models\\productlisstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,32 +15,227 @@
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\filter\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\filter\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\category\\productbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Areas\\Admin\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\models\\productlisstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\models\\productlisstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|e:\\thayphat\\chuyendeaspnet\\chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -97,22 +252,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\PaymentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -176,10 +315,6 @@
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\views\\profile\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|solutionrelative:chuyendeaspnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -201,14 +336,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\WebASP.csproj|solutionrelative:chuyendeaspnet\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004D73C9-C61B-4848-A251-F92CEF533C2E}|ChuyenDeASPNET\\ChuyenDeASPNET.csproj|E:\\ThayPhat\\ChuyenDeASPNET\\chuyendeaspnet\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -246,348 +373,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 474,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHIBAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:56:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Default\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Default\\Create.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Default\\Create.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Default\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T07:17:41.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Seller.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAqwDoAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:12:20.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\User.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\User.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:43:09.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwBwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:17:41.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T08:14:02.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductLisstViewModel.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T08:02:49.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T08:05:22.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CartController.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:18:46.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\PaymentController.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:54:44.624Z",
+              "WhenOpened": "2025-01-15T07:21:53.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T04:42:01.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T04:41:45.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:03:44.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AllProduct.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
-              "ViewState": "AgIAALcAAAAAAAAAAAAUwM8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T07:01:55.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T08:57:20.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductByCategory.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T08:18:12.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProductController.cs",
               "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T07:17:41.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T07:44:29.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
-              "WhenOpened": "2024-12-04T08:13:32.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:03:01.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T08:13:32.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\User.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\User.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\User.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Context\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:02:01.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Wishlist.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswDoAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:12:20.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Orders.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:12:20.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CartModel.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\CartModel.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\CartModel.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\CartModel.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Models\\CartModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:21:48.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\OrderDetail.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\OrderDetail.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Context\\OrderDetail.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAD4vw4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T06:37:41.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AllCategory.cshtml",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
-              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:03:08.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\UserController.cs",
@@ -600,66 +429,793 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:34:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T07:44:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:34:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:07:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T07:17:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:14:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:53:26.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwFgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:34:00.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:24:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:25:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:20:48.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:20:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:19:36.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:04:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:02:12.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:01:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:01:17.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:01:11.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAuthorizeAttribute.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Filter\\AdminAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Filter\\AdminAuthorizeAttribute.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Filter\\AdminAuthorizeAttribute.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Filter\\AdminAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:39:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:25:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:25:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:26:45.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:30:38.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:31:49.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:33:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:18:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAEIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:17:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:34:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:16:22.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:11:04.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:10:27.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:06:35.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:05:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Category.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\Category.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Category.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Context\\Category.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:56:39.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\Product.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Product.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Context\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:54:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Brand.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\Brand.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Brand.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Context\\Brand.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:53:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "E:\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "E:\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "..\\..\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:34:36.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\User.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\User.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\User.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Context\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:02:01.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\OrderDetail.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\OrderDetail.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Context\\OrderDetail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vw4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:37:41.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductLisstViewModel.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Models\\ProductLisstViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:02:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "Model1.Context.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Model1.Context.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\Model1.Context.cs",
               "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Model1.Context.cs",
               "RelativeToolTip": "ChuyenDeASPNET\\Context\\Model1.Context.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T08:53:53.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\CartModel.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\CartModel.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:21:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:18:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Order.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\Order.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Order.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Context\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:56:12.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductByCategory.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Category\\ProductByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:18:12.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T04:41:45.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T04:42:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\PaymentController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:54:44.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:05:22.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:13:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\AllProduct.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAUwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T07:01:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:17:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\User.cs",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\User.cs",
+              "RelativeToolTip": "ChuyenDeASPNET\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:43:09.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Seller.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T06:12:20.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:57:20.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-12-04T08:13:32.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Wishlist.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T06:12:20.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T06:12:20.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AllCategory.cshtml",
+              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
+              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
+              "RelativeToolTip": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:03:08.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\PaymentController.cs",
               "ToolTip": "C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\PaymentController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:54:22.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T08:54:22.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 64,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Model1.edmx",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Context\\Model1.edmx",
               "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Context\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "ChuyenDeASPNET\\Context\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-25T08:53:35.188Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-12-25T08:53:35.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 67,
               "Title": "15-2.jpg",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Content\\images\\items\\15-2.jpg",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Content\\images\\items\\15-2.jpg",
               "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Content\\images\\items\\15-2.jpg",
               "RelativeToolTip": "ChuyenDeASPNET\\Content\\images\\items\\15-2.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-12-25T07:40:34.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T07:40:34.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 66,
               "Title": "CartModel.cs",
               "DocumentMoniker": "C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\CartModel.cs",
               "ToolTip": "C:\\Users\\PHUONG\\Documents\\Zalo Received Files\\CartModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:52:34.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T07:52:34.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 65,
               "Title": "ProductDetail.cshtml",
               "DocumentMoniker": "E:\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "..\\..\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Product\\ProductDetail.cshtml",
@@ -670,7 +1226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 68,
               "Title": "HomeModel.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Models\\HomeModel.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Models\\HomeModel.cs",
@@ -678,12 +1234,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Models\\HomeModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:53:47.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:53:47.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 70,
               "Title": "Wishlist.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Wishlist.cshtml",
@@ -695,7 +1250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 72,
               "Title": "Setting.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
@@ -707,7 +1262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 73,
               "Title": "Seller.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Seller.cshtml",
@@ -719,7 +1274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 74,
               "Title": "Orders.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Orders.cshtml",
@@ -731,7 +1286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 76,
               "Title": "Main.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
@@ -743,7 +1298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 77,
               "Title": "Address.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
@@ -751,12 +1306,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwFUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:12:20.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T06:12:20.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 71,
               "Title": "Setting.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
@@ -764,12 +1318,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Setting.cshtml",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:12:20.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T06:12:20.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 75,
               "Title": "Main.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
@@ -777,12 +1330,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Profile\\Main.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAD4vzkAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:12:20.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T06:12:20.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 69,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Shared\\Error.cshtml",
@@ -790,12 +1342,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T06:25:16.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T06:25:16.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 78,
               "Title": "Address.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Profile\\Address.cshtml",
@@ -807,20 +1358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:34:47.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 79,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\UserController.cs",
@@ -832,7 +1370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 81,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\HomeController.cs",
@@ -844,7 +1382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 84,
               "Title": "Register.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\User\\Register.cshtml",
@@ -852,12 +1390,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\User\\Register.cshtml",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAGoAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T08:33:47.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T08:33:47.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 80,
               "Title": "AllCategory.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Category\\AllCategory.cshtml",
@@ -869,7 +1406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 83,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\User\\Login.cshtml",
@@ -877,12 +1414,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAADsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T06:42:15.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T06:42:15.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 82,
               "Title": "hxkkms4s..sql",
               "DocumentMoniker": "C:\\Users\\hauly\\AppData\\Local\\Temp\\hxkkms4s..sql",
               "ToolTip": "C:\\Users\\hauly\\AppData\\Local\\Temp\\hxkkms4s..sql",
@@ -891,33 +1427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:07:48.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "ChuyenDeASPNET\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:08:57.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 86,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\_ViewStart.cshtml",
@@ -925,12 +1435,11 @@
               "RelativeToolTip": "ChuyenDeASPNET\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T08:34:35.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T08:34:35.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 87,
               "Title": "Register.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\User\\Register.cshtml",
@@ -942,7 +1451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 85,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProfileController.cs",
@@ -954,7 +1463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 88,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\User\\Login.cshtml",
@@ -966,7 +1475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 89,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\ProductController.cs",
@@ -978,7 +1487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 90,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Controllers\\CategoryController.cs",
@@ -990,7 +1499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 91,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\ThayPhat\\ChuyenDeASPNET\\ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ChuyenDeASPNET\\Views\\Home\\Index.cshtml",
